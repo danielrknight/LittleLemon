@@ -165,9 +165,9 @@ input{
 } 
 
 .cta:hover {
-    color:#fff;
-    background:#e02d1a;
-    border: 3px solid #495E57; 
+    color:#495E57;
+    background:#fff;
+    border: 3px solid #fff; 
   }
 
   .heading-shadow {
